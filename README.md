@@ -12,5 +12,5 @@
 
 <br><br><br><br>
 
-<p align="center">Feito com 💛  por <a target="_blank" href="https://www.linkedin.com/in/viviane-de-santana-queiroz-1a5a4b155/
+<p align="center">Made with 💛  by <a target="_blank" href="https://www.linkedin.com/in/viviane-de-santana-queiroz-1a5a4b155/
 ">Viviane Queiroz</a> 👩‍💻 ✨
